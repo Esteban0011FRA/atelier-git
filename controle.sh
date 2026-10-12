@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./config.config
+source ./configuration.conf
 
 echo "================================"
 echo " Contrôle du serveur : $SERVEUR"
